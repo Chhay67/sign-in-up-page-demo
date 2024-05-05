@@ -1,0 +1,9 @@
+{
+    "json.schemas": [
+
+    ],
+    "editor.parameterHints.enabled": false,
+    "workbench.settings.useSplitJSON": false,
+    "editor.fontVariations": false,
+    
+}
